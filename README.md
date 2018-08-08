@@ -1,4 +1,4 @@
-mongoclusterscripts
+Backup mongo cluster
 ===================
 
 Various scripts for your MongoDB sharded cluster.
