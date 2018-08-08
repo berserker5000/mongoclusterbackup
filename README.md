@@ -51,10 +51,3 @@ This script goes through each shard of your cluster, counts the number
 of items in each chunk (which is quite expensive operation when you
 have a large number of chunks) and splits each chunk. It repeats this
 until all your chunks have less than a given number of objects in them.
-
-Credits
-=======
-
-Copyright (c) 2013, Anton Tolchanov
-
-The scripts are licensed under MIT license.
